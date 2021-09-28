@@ -1,0 +1,5 @@
+C:\Users\rhyan\OneDrive\Aulas .NET\Projeto 1\APPsimples\obj\Debug\net5.0\APPsimples.csproj.AssemblyReference.cache
+C:\Users\rhyan\OneDrive\Aulas .NET\Projeto 1\APPsimples\obj\Debug\net5.0\APPsimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyan\OneDrive\Aulas .NET\Projeto 1\APPsimples\obj\Debug\net5.0\APPsimples.AssemblyInfoInputs.cache
+C:\Users\rhyan\OneDrive\Aulas .NET\Projeto 1\APPsimples\obj\Debug\net5.0\APPsimples.AssemblyInfo.cs
+C:\Users\rhyan\OneDrive\Aulas .NET\Projeto 1\APPsimples\obj\Debug\net5.0\APPsimples.csproj.CoreCompileInputs.cache
